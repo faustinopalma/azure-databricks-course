@@ -1,0 +1,24 @@
+{
+  "checkedAt": "2026-09-24T15:24:30.813Z",
+  "structuralStatus": "passed",
+  "chapters": 12,
+  "documents": 15,
+  "localLinks": 427,
+  "externalUrlSyntaxChecks": 14,
+  "codeBlocks": 19,
+  "chapterWordCounts": {
+    "01-architecture-and-execution.md": 1581,
+    "02-storage-and-catalog-objects.md": 1750,
+    "03-compute-selection.md": 1613,
+    "04-identity-and-authorization.md": 1773,
+    "05-governance-retention-sharing.md": 1693,
+    "06-ingestion-and-streaming.md": 2116,
+    "07-table-design-and-history.md": 1721,
+    "08-transformations-and-quality.md": 1883,
+    "09-pipelines-and-orchestration.md": 1694,
+    "10-testing-and-deployment.md": 1753,
+    "11-performance-and-observability.md": 1744,
+    "12-integrations-and-analytics.md": 2049
+  },
+  "scope": "Markdown parsing, file existence, internal course anchors, and external URL syntax only. This is not technical fact validation or Databricks execution evidence."
+}
