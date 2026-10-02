@@ -1,24 +1,24 @@
 {
-  "checkedAt": "2026-10-01T14:53:02.395Z",
+  "checkedAt": "2026-10-02T05:42:54.345Z",
   "structuralStatus": "passed",
   "chapters": 12,
   "documents": 15,
-  "localLinks": 427,
+  "localLinks": 428,
   "externalUrlSyntaxChecks": 14,
   "codeBlocks": 19,
   "chapterWordCounts": {
-    "01-architecture-and-execution.md": 1356,
-    "02-storage-and-catalog-objects.md": 1418,
-    "03-compute-selection.md": 1387,
-    "04-identity-and-authorization.md": 1456,
-    "05-governance-retention-sharing.md": 1449,
-    "06-ingestion-and-streaming.md": 1832,
-    "07-table-design-and-history.md": 1520,
-    "08-transformations-and-quality.md": 1619,
-    "09-pipelines-and-orchestration.md": 1408,
-    "10-testing-and-deployment.md": 1485,
-    "11-performance-and-observability.md": 1597,
-    "12-integrations-and-analytics.md": 1761
+    "01-architecture-and-execution.md": 2181,
+    "02-storage-and-catalog-objects.md": 2311,
+    "03-compute-selection.md": 2317,
+    "04-identity-and-authorization.md": 2385,
+    "05-governance-retention-sharing.md": 2567,
+    "06-ingestion-and-streaming.md": 3327,
+    "07-table-design-and-history.md": 3909,
+    "08-transformations-and-quality.md": 3062,
+    "09-pipelines-and-orchestration.md": 2471,
+    "10-testing-and-deployment.md": 2537,
+    "11-performance-and-observability.md": 2639,
+    "12-integrations-and-analytics.md": 2798
   },
   "scope": "Markdown parsing, file existence, internal course anchors, and external URL syntax only. This is not technical fact validation or Databricks execution evidence."
 }
